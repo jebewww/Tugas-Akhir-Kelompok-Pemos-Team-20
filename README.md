@@ -422,7 +422,9 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/90039747/169631429-fd64c9f6-37d1-48c4-b9e6-45b50443d6b1.png)
 
 ## 🗒️4. SARAN PENGEMBANGAN🗒️
-
+1. Tipe pembuatan grafik dapat dikreasikan dengan mengacu pada _Style sheets reference_. (https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
+2. Tipe garis dan warna pada grafik dapat dikreasikan dengan mengacu pada _Line and Color style_. (https://matplotlib.org/2.1.1/api/_as_gen/matplotlib.pyplot.plot.html)
+3. Persamaan untuk setiap metode dapat _customizable_
 
 
 
